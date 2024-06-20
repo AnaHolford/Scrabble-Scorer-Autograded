@@ -39,7 +39,6 @@ function initialPrompt() {
 
 };
 
-
 let newPointStructure = transform(oldPointStructure);
 
 let simpleScorer = (scoringWord) => {
